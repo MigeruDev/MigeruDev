@@ -4,14 +4,14 @@
 <p>
   <img width="230" alt="hello!" align="left" src="assets/codingatnight.gif">
 </p>
-
+<h3>
     I am a Software Developver 👨‍💻 with a System Engineer Degree 🎓 from Ecuador. 
     Don't have any problems to work from home 🏠. 
     I like to be organized and work in team environments. 
     I am a Data Science 📊 and Machine Learning 🤖 enthusiast with 
     some experience from courses and certain jobs. 
     In my spare time I like to learn new things or watch anime 😋.
-
+</h3>
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150"'>
 
 ## ⚡ My Skills

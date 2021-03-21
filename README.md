@@ -2,7 +2,7 @@
 <h1> Hi, I'm Miguel Ángel <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 <p>
-  <img width="250" alt="hello!" align="left" src="assets/codingatnight.gif">
+  <img width="230" alt="hello!" align="left" src="assets/codingatnight.gif">
 </p>
 
     I am a Software Developver 👨‍💻 with a System Engineer Degree 🎓 from Ecuador. 

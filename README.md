@@ -13,9 +13,10 @@
     In my spare time I like to learn new things or watch anime 😋.
 
 <br>
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150"'>
 
 ## ⚡ My Skills
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150"'>
+
 - Front-end development using **Angular <img src='assets/angular.svg' width='15"'>, React** <img src='assets/react.svg' width='15"'>
 - I like to use Material Desing, like [angular-material](https://material.angular.io/) and [material-ui](https://material-ui.com/es/)
 - Backend development using **Flask <img src='assets/flask.svg' width='15"'>, NodeJs <img src='assets/nodejs.svg' width='15"'>**

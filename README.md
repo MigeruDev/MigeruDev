@@ -26,4 +26,5 @@
 ## 💬 Where to find me
 - 🎯 Portfolio site: [TBD](https://github.com/TheWorstOne)
 - 💼 Linkedin: [@mangelladen](https://www.linkedin.com/in/mangelladen/)
+- 📊 Kaggle: [@theworstone](https://www.kaggle.com/theworstone)
 - 👨‍💻 Hackerearth: [@TheWorstOne](https://www.hackerearth.com/@TheWorstOne)

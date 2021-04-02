@@ -24,7 +24,7 @@
 - Solving Data structure and algorithm questions in **Java <img src='assets/java.svg' width='15"'>, Python <img src='assets/python.svg' width='15"'>**
 
 ## 💬 Where to find me
-- 🎯 Portfolio site: [TBD](https://github.com/TheWorstOne)
+- 🎯 Portfolio site: [mangelladev.com](https://mangelladev.web.app/)
 - 💼 Linkedin: [@mangelladev](https://www.linkedin.com/in/mangelladev/)
 - 📊 Kaggle: [@theworstone](https://www.kaggle.com/theworstone)
 - 👨‍💻 Hackerearth: [@TheWorstOne](https://www.hackerearth.com/@TheWorstOne)

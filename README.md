@@ -1,22 +1,11 @@
-<!-- Banner placeholder -->
-<p align="center">
-  <img src="https://i.imgur.com/SUFU1Hn.gif" alt="Banner" width="800"/>
-</p>
+<div align="center" style="width:100%; overflow:hidden; margin-bottom: -3em;">
+  <img src="assets/night-pixel-art.jpg" alt="Banner" style="width:100vw; max-width:100%; height:220px; object-fit:cover; display:block; margin:0 auto; border-radius:12px; box-shadow:0 4px 24px rgba(0,0,0,0.2);" />
+  <div style="position:relative; top:-160px; width:100%; text-align:center;">
+    <h1 style="color:white; font-size:2.8em; text-shadow:2px 2px 12px #000, 0 0 8px #333; margin:0;">Hi, I'm Miguel Macías</h1>
+  </div>
+</div>
 
-<h1 align="center">Hi there 👋, I'm Miguel Macías</h1>
-
-## 👋 About Me
-
-Hi, I’m Miguel Macías, a Software Engineer based in Cuenca, Ecuador. I have 4+ years of experience building scalable systems, data pipelines, and web applications that support data-driven decision-making. I enjoy solving real-world problems with clean code, practical solutions, and impactful analytics.
-
-<p align="center">
-  <!-- Placeholder for a relaxed/modern GIF or pixel art -->
-  <img src="https://i.imgur.com/M0fB04g.gif" alt="Relaxed/Modern Vibe" width="300"/>
-</p>
-
-<p align="center">
-  <img src="https://i.imgur.com/FLsD4js.gif" alt="Pixel Divider" width="200"/>
-</p>
+I have +5 years of experience building scalable systems, data pipelines, and web applications that support data-driven decision-making. I enjoy solving real-world problems with clean code, practical solutions, and impactful analytics.
 
 ---
 

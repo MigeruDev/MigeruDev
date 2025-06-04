@@ -1,24 +1,14 @@
 <p align="center">
   <svg width="100%" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
-    <image href="https://i.imgur.com/SUFU1Hn.gif" width="800" height="200"/>
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="32" fill="white" font-family="sans-serif">Hi there 👋, I'm Miguel Macías</text>
+    <image href="./assets/night-pixel-art.jpg" width="100%" height="200"/>
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="32" fill="white" font-family="sans-serif">Hi, I'm Miguel Macías</text>
   </svg>
 </p>
 
 ## 👋 About Me
 
-Hi, I’m Miguel Macías, a Software Engineer based in Cuenca, Ecuador. I have 4+ years of experience building scalable systems, data pipelines, and web applications that support data-driven decision-making. I enjoy solving real-world problems with clean code, practical solutions, and impactful analytics.
+I have +5 years of experience building scalable systems, data pipelines, and web applications that support data-driven decision-making. I enjoy solving real-world problems with clean code, practical solutions, and impactful analytics.
 [Let's connect on LinkedIn](https://www.linkedin.com/in/migerudev)
-
-
-<p align="center">
-  <img src="https://i.imgur.com/S0f27Vz.gif" alt="Modern Vibe" width="300"/>
-</p>
-
-
-<p align="center">
-  <img src="https://i.imgur.com/o1kE0k4.gif" alt="Divider" width="200"/>
-</p>
 
 
 ## 🛠️ Tech Stack
@@ -77,6 +67,7 @@ Hi, I’m Miguel Macías, a Software Engineer based in Cuenca, Ecuador. I have 4
   <img src="https://img.shields.io/badge/CI/CD-3C94D6?style=for-the-badge&logo=gitlabci&logoColor=white"/>
   <img src="https://img.shields.io/badge/HPC_Automation-BF0000?style=for-the-badge&logoColor=white"/>
 </p>
+
 ---
 
 ## 🤝 Soft Skills

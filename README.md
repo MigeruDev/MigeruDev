@@ -1,11 +1,15 @@
-<p align="center" style="position: relative;">
-  <img src="https://i.imgur.com/SUFU1Hn.gif" alt="Banner" width="800"/>
-  <h1 align="center" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; text-shadow: 2px 2px 4px #000000;">Hi there 👋, I'm Miguel Macías</h1>
+<p align="center">
+  <svg width="100%" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+    <image href="https://i.imgur.com/SUFU1Hn.gif" width="800" height="200"/>
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="32" fill="white" font-family="sans-serif">Hi there 👋, I'm Miguel Macías</text>
+  </svg>
 </p>
 
 ## 👋 About Me
 
 Hi, I’m Miguel Macías, a Software Engineer based in Cuenca, Ecuador. I have 4+ years of experience building scalable systems, data pipelines, and web applications that support data-driven decision-making. I enjoy solving real-world problems with clean code, practical solutions, and impactful analytics.
+[Let's connect on LinkedIn](https://www.linkedin.com/in/migerudev)
+
 
 <p align="center">
   <img src="https://i.imgur.com/S0f27Vz.gif" alt="Modern Vibe" width="300"/>
@@ -16,34 +20,63 @@ Hi, I’m Miguel Macías, a Software Engineer based in Cuenca, Ecuador. I have 4
   <img src="https://i.imgur.com/o1kE0k4.gif" alt="Divider" width="200"/>
 </p>
 
----
 
-## 🛠️ Tech Skills
+## 🛠️ Tech Stack
 
-**Languages:**
+### Languages
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+### Frontend
+<p align="center">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+</p>
 
-**Frontend Frameworks:**
+### Backend
+<p align="center">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+</p>
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+### Databases & Analytics
+<p align="center">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/ETL-702C8C?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data_Modeling-1E90FF?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data_Visualization-FF7F50?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine_Learning-FFD700?style=for-the-badge&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Superset-4A90E2?style=for-the-badge&logo=apache-superset&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
-**Backend Frameworks:**
+### DevOps & Cloud
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keycloak-2A9DF4?style=for-the-badge&logo=keycloak&logoColor=white"/>
+</p>
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-**Databases & Data Analytics:**
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![ETL](https://img.shields.io/badge/ETL-702C8C?style=for-the-badge&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white) ![Data Modeling](https://img.shields.io/badge/Data_Modeling-1E90FF?style=for-the-badge&logoColor=white) ![Data Visualization](https://img.shields.io/badge/Data_Visualization-FF7F50?style=for-the-badge&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FFD700?style=for-the-badge&logoColor=black) ![Superset](https://img.shields.io/badge/Superset-4A90E2?style=for-the-badge&logo=apache-superset&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**DevOps, Cloud & Tools:**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white) ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![Keycloak](https://img.shields.io/badge/Keycloak-2A9DF4?style=for-the-badge&logo=keycloak&logoColor=white)
-
-**Other Skills:**
-
-![REST APIs](https://img.shields.io/badge/REST_APIs-0277BD?style=for-the-badge&logoColor=white) ![Agile/SCRUM](https://img.shields.io/badge/Agile/SCRUM-009EDA?style=for-the-badge&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI/CD-3C94D6?style=for-the-badge&logo=gitlabci&logoColor=white) ![HPC Automation](https://img.shields.io/badge/HPC_Automation-BF0000?style=for-the-badge&logoColor=white)
-
+### Other Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/REST_APIs-0277BD?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Agile/SCRUM-009EDA?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI/CD-3C94D6?style=for-the-badge&logo=gitlabci&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HPC_Automation-BF0000?style=for-the-badge&logoColor=white"/>
+</p>
 ---
 
 ## 🤝 Soft Skills
@@ -99,18 +132,8 @@ Hi, I’m Miguel Macías, a Software Engineer based in Cuenca, Ecuador. I have 4
 
 ## 📝 Publications
 
-*   **Desarrollo de un XBlock en Open edX para apoyar el monitoreo y seguimiento en un SPOC**
-    *   Published in: Revista Tecnológica - ESPOL
-    *   [View Paper](https://rte.espol.edu.ec/index.php/tecnologica/article/view/957/651)
-
-*   **Proposal for the Design and Implementation of a XBlock in Open edX to Support Learning Analytics**
-    *   Published in: 2021 XVI Latin American Conference on Learning Technologies (LACLO) - IEEE
-    *   DOI: `10.1109/LACLO54177.2021.00088`
-    *   [View Paper](https://ieeexplore.ieee.org/document/9725187)
-
-*   **Understanding Learners Behavior in Massive Open Online Courses**
-    *   Published in: 2020 XLVI Latin American Computing Conference (CLEI) - IEEE
-    *   DOI: `10.1109/CLEI52000.2020.00050`
-    *   [View Paper](https://ieeexplore.ieee.org/document/9458355)
+* [Desarrollo de un XBlock en Open edX para apoyar el monitoreo y seguimiento en un SPOC](https://rte.espol.edu.ec/index.php/tecnologica/article/view/957/651) - Revista Tecnológica - ESPOL
+* [Proposal for the Design and Implementation of a XBlock in Open edX to Support Learning Analytics](https://ieeexplore.ieee.org/document/9725187) - 2021 XVI Latin American Conference on Learning Technologies (LACLO) - IEEE. DOI: `10.1109/LACLO54177.2021.00088`
+* [Understanding Learners Behavior in Massive Open Online Courses](https://ieeexplore.ieee.org/document/9458355) - 2020 XLVI Latin American Computing Conference (CLEI) - IEEE. DOI: `10.1109/CLEI52000.2020.00050`
 
 ---

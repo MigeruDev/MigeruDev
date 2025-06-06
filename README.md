@@ -7,6 +7,10 @@
 I have +5 years of experience building scalable systems, data pipelines, and web applications that support data-driven decision-making. I enjoy solving real-world problems with clean code, practical solutions, and impactful analytics.
 [Let's connect on LinkedIn](https://www.linkedin.com/in/migerudev)
 
+## 📫 Contact
+
+* **Email:** [migeru.dev@gmail.com](mailto:migeru.dev@gmail.com)
+* **Website:** [migeru.dev](https://migeru.dev)
 
 ## 🛠️ Tech Stack
 
